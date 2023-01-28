@@ -4,9 +4,6 @@
   <div aling="left">
        <h3>⚙️Languages and Tools:</h3>
           <div>
-             <img src="https://github.com/devicons/devicon/blob/master/icons/moodle/moodle-plain-wordmark.svg" 
-          title="moodle" alt="moodle"
-          width="40" heigth="40"/>&nbsp;
              <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg"
            title="linux" alt="linux"
            width="40" heigth="40"/>&nbsp;
@@ -31,7 +28,7 @@
              <img src="https://user-images.githubusercontent.com/113303967/215284773-0534e1ae-81ae-4b75-910f-b2c52a23435a.png" 
            title="flstudio" alt="flstudio"
            width="40" heigth="40"/>&nbsp;
-             <img src="https://user-images.githubusercontent.com/113303967/215284881-6661c58b-8efe-4f2d-8ca5-8c4d3502dd68.png" 
+             <img src="https://user-images.githubusercontent.com/113303967/215285465-620fdcd1-689e-41d8-aaa2-eb454b2c21d5.png" 
            title="virtualdj" alt="virtualdj"
            width="40" heigth="40"/>&nbsp;
             <img src="https://user-images.githubusercontent.com/113303967/215284991-d4e3e8f7-f636-4777-9e23-cff0da91caf8.png" 
