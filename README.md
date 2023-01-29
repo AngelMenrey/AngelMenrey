@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/lrrBalkpfCcbVqaQPU/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/lrrBalkpfCcbVqaQPU/giphy.gif" width="200"/>
     <h1 align="center">Hi✌, I´m AngelReyezzz</h1>
   <div aling="left">
        <h3>⚙️Languages and Tools:</h3>
