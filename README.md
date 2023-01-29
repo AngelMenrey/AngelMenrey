@@ -25,9 +25,9 @@
               <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Parrot_Logo.png" 
            title="parrot" alt="parrot"
            width="40" heigth="40"/>&nbsp;
-             <img src="https://user-images.githubusercontent.com/113303967/215284773-0534e1ae-81ae-4b75-910f-b2c52a23435a.png" 
+             <img src="https://user-images.githubusercontent.com/113303967/215305221-0b4adaa0-927c-409a-a2f0-220e861233b9.png" 
            title="flstudio" alt="flstudio"
-           width="40" heigth="40"/>&nbsp;
+           width="40" heigth="40"/>&nbsp; 
              <img src="https://user-images.githubusercontent.com/113303967/215285465-620fdcd1-689e-41d8-aaa2-eb454b2c21d5.png" 
            title="virtualdj" alt="virtualdj"
            width="40" heigth="40"/>&nbsp;
