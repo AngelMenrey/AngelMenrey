@@ -1,5 +1,5 @@
 <div id="header" align="center">
-<img src="https://media.giphy.com/media/lrrBalkpfCcbVqaQPU/giphy.gif" width="300"/>
+<img src="https://media.giphy.com/media/sab5HqnY2mdBC/giphy.gif" width="300"/>
 <h1 align="center">Hi✌, I´m AngelReyezzz</h1>
 <div id="header" align="center">
 <img src="https://media.giphy.com/media/kBi5S9oHVsHopUwvc1/giphy.gif" width= "150"/>
@@ -27,7 +27,7 @@ width="40" heigth="40"/>&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Parrot_Logo.png" 
 title="parrot" alt="parrot"
 width="40" heigth="40"/>&nbsp;
-<img src="https://user-images.githubusercontent.com/113303967/215305373-457c5266-ef47-4aa7-990b-866e9be4e727.png" 
+<img src="https://user-images.githubusercontent.com/113303967/218323742-be7da6f2-f890-4dbf-83e9-ba4e1f06925d.png" 
 title="flstudio" alt="flstudio"
 width="40" heigth="40"/>&nbsp; 
 <img src="https://user-images.githubusercontent.com/113303967/215285465-620fdcd1-689e-41d8-aaa2-eb454b2c21d5.png" 
@@ -35,9 +35,6 @@ title="virtualdj" alt="virtualdj"
 width="40" heigth="40"/>&nbsp;
 <img src="https://user-images.githubusercontent.com/113303967/215284991-d4e3e8f7-f636-4777-9e23-cff0da91caf8.png" 
 title="termux" alt="termux"
-width="40" heigth="40"/>&nbsp;
-<img src="https://user-images.githubusercontent.com/113303967/215285181-5b622bb7-c612-4621-b4ad-acff909ed19f.png" 
-title="sfml" alt="sfml"
 width="40" heigth="40"/>&nbsp;
 <div id="header" align="center">
 <img src="https://media.giphy.com/media/RMMt3f4WpmEmOd5X3u/giphy.gif" width= "200"/>
