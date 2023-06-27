@@ -1,5 +1,5 @@
 <div id="header" align="center">
-<img src="https://media.giphy.com/media/l0HlxM6Txhm665JV6/giphy-downsized-large.gif" width="300"/>
+<img src="https://media.giphy.com/media/l0HlxM6Txhm665JV6/giphy-downsized-large.gif" width="100"/>
 <h1 align="center">Hi✌, I´m AngelReyezzz</h1>
 <div id="header" align="center">
 <img src="" width= "50"/>
