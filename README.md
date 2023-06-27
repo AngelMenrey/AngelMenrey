@@ -1,8 +1,8 @@
 <div id="header" align="center">
-<img src="https://media.giphy.com/media/l0HlxM6Txhm665JV6/giphy-downsized-large.gif" width="300"/>
+<img src="" width="300"/>
 <h1 align="center">Hi✌, I´m AngelReyezzz</h1>
 <div id="header" align="center">
-<img src="https://media.giphy.com/media/Ka1bLBsYpXf0L3BKT1/giphy.gif" width= "150"/>
+<img src="https://media.giphy.com/media/l0HlxM6Txhm665JV6/giphy-downsized-large.gif" width= "150"/>
 <div aling="left">
 <h3>⚙️Languages and Tools:</h3>
 <div>
