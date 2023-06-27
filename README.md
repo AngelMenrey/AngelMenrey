@@ -2,7 +2,7 @@
 <img src="https://media.giphy.com/media/HnGeVrHmbZDBC/giphy.gif" width="300"/>
 <h1 align="center">Hi✌, I´m AngelReyezzz</h1>
 <div id="header" align="center">
-<img src="https://media.giphy.com/media/7JYov5NlSkKc8pTAVl/giphy.gif" width= "50"/>
+<img src="https://media.giphy.com/media/9PqkpzuUTNjGvHXk52/giphy.gif" width= "150"/>
 <div aling="left">
 <h3>⚙️Languages and Tools:</h3>
 <div>
