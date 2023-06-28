@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="https://media.giphy.com/media/l0HlxM6Txhm665JV6/giphy-downsized-large.gif" width="300"/>
+    <img src=https://media.giphy.com/media/SzQk4DdpJBkXu/giphy.gif width="300"/>
     <h1 align="center"><em><strong>Hi✌, I´m AngelReyezzz</strong></em></h1>
     <div id="header" align="center">
     <img src="https://media.giphy.com/media/JjrXKElArVbHZX0fh4/giphy.gif" width= "150"/>
@@ -41,4 +41,3 @@
     <p><a href="https://youtu.be/TS1QNWcs63E" title="Lady Gaga - Peso Pluma ft Gabito Ballesteros, Junior H ">🕷️</a></p>
     <div>
     </div>
-    
