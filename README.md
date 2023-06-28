@@ -1,10 +1,10 @@
 <div id="header" align="center">
-    <img src=https://media.giphy.com/media/SzQk4DdpJBkXu/giphy.gif width="300"/>
-    <h1 align="center"><em><strong>Hi✌, I´m AngelReyezzz</strong></em></h1>
+    <img src="https://media.giphy.com/media/SzQk4DdpJBkXu/giphy.gif" width="300"/>
+    <h1 align="center"><em><strong>Hi✌, I´m AngelMenrey</strong></em></h1>
     <div id="header" align="center">
     <img src="https://media.giphy.com/media/JjrXKElArVbHZX0fh4/giphy.gif" width= "150"/>
     <div aling="left">
-    <h3>⚙️Languages and Tools:</h3>
+    <h3><em><strong>⚙️Languages and Tools:</strong></em></h3>
     <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg"
     title="linux" alt="linux"
@@ -41,3 +41,4 @@
     <p><a href="https://youtu.be/TS1QNWcs63E" title="Lady Gaga - Peso Pluma ft Gabito Ballesteros, Junior H ">🕷️</a></p>
     <div>
     </div>
+    
