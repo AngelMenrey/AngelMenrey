@@ -39,7 +39,6 @@
     <div id="header" align="center">
     <img src="https://media.giphy.com/media/RMMt3f4WpmEmOd5X3u/giphy.gif" width= "200"/>
     <p><a href="https://youtu.be/9KMx5LJniPM"title="El TSURITO">🕸️</a><a href="https://youtu.be/TS1QNWcs63E" title="LADY GAGA">🕷️</a><a href="https://youtu.be/4RXnYfHUDJw"title="EL AZUL">🕸️</a></p>
-
     <div>
     </div>
     
