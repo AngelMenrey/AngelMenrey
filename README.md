@@ -1,10 +1,26 @@
+<style>
+    #header{
+        background-color: black;
+    }
+    #message{
+        color: black;
+        background-color: aliceblue;
+    }
+    #Tool{
+    color:black;
+    background-color: white;
+    }
+    
+</style>
 <div id="header" align="center">
+    <div id = font>
     <img src="https://media.giphy.com/media/W62Cg8rUyhRwk/giphy.gif"width="300"/>
-    <h1 align="center"><em><strong>Hi✌, I´m AngelMenrey</strong></em></h1>
+    
+ <h1 align="center"><em><strong><div id ="message">Hi✌, I´m AngelMenrey</div></strong></em></h1>
     <div id="header" align="center">
     <img src="https://media.giphy.com/media/JjrXKElArVbHZX0fh4/giphy.gif" width= "150"/>
     <div aling="left">
-    <h3><em><strong>⚙️Languages and Tools:</strong></em></h3>
+    <h3><em><strong><div id = "Tool">⚙️Languages and Tools:</div></strong></em></h3>
     <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg"
     title="linux" alt="linux"
@@ -37,8 +53,8 @@
     title="termux" alt="termux"
     width="40" heigth="40"/>&nbsp;
     <div id="header" align="center">
+    </div>
     <img src="https://media.giphy.com/media/RMMt3f4WpmEmOd5X3u/giphy.gif" width= "200"/>
     <p><a href="https://youtu.be/9KMx5LJniPM"title="El TSURITO">🕸️</a><a href="https://youtu.be/TS1QNWcs63E" title="LADY GAGA">🕷️</a><a href="https://youtu.be/4RXnYfHUDJw"title="EL AZUL">🕸️</a></p>
     <div>
     </div>
-    
