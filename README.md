@@ -1,7 +1,7 @@
 
 <div id="header" align="center">
     <div id = font>
-    <img src="https://media.giphy.com/media/W62Cg8rUyhRwk/giphy.gif"width="300"/>
+    <img src="https://media.giphy.com/media/izs48sIgv9YWqItVMg/giphy.gif"width="300"/>
     
  <h1 align="center"><em><strong><div id ="message">Hi✌, I´m AngelMenrey</div></strong></em></h1>
     <div id="header" align="center">
@@ -41,7 +41,7 @@
     width="40" heigth="40"/>&nbsp;
     <div id="header" align="center">
     </div>
-    <img src="https://media.giphy.com/media/RMMt3f4WpmEmOd5X3u/giphy.gif" width= "200"/>
+    <img src="https://media.giphy.com/media/YOB90YQJOaDT5t8Bqz/giphy.gif" width= "200"/>
         <p> <a href="https://youtu.be/e8lA22858vo" title="ASI LO QUISO DIOS">⛓</a></p>
     <p><a href="https://youtu.be/9KMx5LJniPM"title="El TSURITO">🕸️</a><a href="https://youtu.be/3Wnso2A4PZE" title="LADY GAGA">🕷️</a><a href="https://youtu.be/4RXnYfHUDJw"title="EL AZUL">🕸️</a></p>
         <p><a href="https://youtu.be/nCEmfQ-SgVM" title="PICARDIA"> 🦊</a></p>
